@@ -1,3 +1,7 @@
+<img width="1128" height="636" alt="Dashboard-overview" src="https://github.com/user-attachments/assets/06679eab-b5f0-4d08-b9df-21ac20f700e8" />
+
+<img width="1130" height="643" alt="Dashboard2-Overview" src="https://github.com/user-attachments/assets/55d0fa8b-5beb-4546-be2b-77efb6d9de80" />
+
 # supermarket-sales-analysis-powerbi
 Interactive Supermarket Sales Analysis dashboard built with Power BI to analyze sales, profit, products, customers, regions, and payment methods.
 # 🛒 Supermarket Sales Analysis – Power BI Dashboard
